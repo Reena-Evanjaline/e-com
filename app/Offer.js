@@ -14,7 +14,7 @@ function Offer() {
                     <h6 className="fw-bold text-uppercase text-dark">Global Stock</h6>
                     <p className="text-muted mb-0">
                         Fast Delivery from our <br />
-                        Local Inventory in Dubai
+                        Local Inventory 
                     </p>
                 </div>
                 <div className="col-md-6 col-lg-3 mb-4">
